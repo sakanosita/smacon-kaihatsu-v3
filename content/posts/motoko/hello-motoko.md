@@ -9,10 +9,10 @@ redirect_from:
   - /hello-icp/
 pinned: 1
 tags:
-  - dfinity
-  - motoko
+  - DFINITY
+  - Motoko
   - beginner
-  - icp
+  - ICP
 social_image: /media/labs.png
 description: |-
   ICP(Internet Computer Protocol)でMotokoを使ってDapps開発をはじめよう！
